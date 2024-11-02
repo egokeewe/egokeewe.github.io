@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://egokeewe.github.io/HGk/sitemap_index.txt
+Sitemap: https://egokeewe.github.io/HLx/sitemap_index.txt
+Sitemap: https://egokeewe.github.io/OxT/sitemap_index.txt
+Sitemap: https://egokeewe.github.io/UqK/sitemap_index.txt
